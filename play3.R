@@ -3,7 +3,6 @@ suppressWarnings(suppressMessages(library('dplyr')))
 suppressWarnings(suppressMessages(library('randomForest')))
 suppressWarnings(suppressMessages(library('caret')))
 suppressWarnings(suppressMessages(library('ggthemes')))
-setwd("~/Dropbox/data science/kaggle - titanic")
 
 
 
